@@ -1,0 +1,117 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(216, 214, 214);
+
+
+
+
+}
+
+
+
+
+header{
+    width: 100%;
+    padding: 30px;
+    background-color: rgb(158, 190, 250);
+    border-radius:1%;
+
+
+
+
+
+}
+
+.Search{
+    width: 200px;
+    border-radius: 10%;
+    display: flex;
+    flex-direction: row ;
+    background-color: darkgray;
+    text-align:start;
+    
+
+
+
+
+
+
+}
+.maincontent{
+
+width: 80%;
+
+
+
+}
+.Cesar1{
+    width: 90%;
+    background-color: rgb(248, 141, 133);
+    
+
+
+
+
+}
+.Gavai1{
+    width: 90%;
+    background-color: rgb(255, 148, 140);
+    
+
+
+
+
+
+}
+h2{
+    text-align: center;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.Iarticle{
+    padding:20px ;
+    
+    
+
+
+
+
+
+
+}
+footer{
+    width: 100%;
+    background-color: rgb(139, 247, 184);
+    text-align: start;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
